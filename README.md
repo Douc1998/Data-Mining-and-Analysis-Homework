@@ -1,7 +1,7 @@
 # Data-Mining-and-Analysis-Homework
 Douchen 's Data Mining and Analysis Homework
 
-Author: 中国地质大学武汉（武汉） 地理空间信息工程专业  窦晨
+Author: 中国地质大学（武汉） 地理空间信息工程专业  窦晨
 
 Introduction of uploaded files:
 
